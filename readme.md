@@ -1,3 +1,6 @@
+** This repository has been merged with another repoitory:
+https://github.com/ancient-eDNA/Holi Please use that repository instead. **
+
 # Scripts from work done at the Joint Genome Institute to process sequencing data in the paper:
 Tracing past ambient air pollution and its consequences on human health. Submitted 7/31/2017.Pedersen, M.W. et al.
 
